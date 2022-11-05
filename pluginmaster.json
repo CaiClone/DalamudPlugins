@@ -2,7 +2,7 @@
   "Author": "Cai",
   "Name": "GCDTracker",
   "InternalName": "GCDTracker",
-  "AssemblyVersion": "1.0.2.3",
+  "AssemblyVersion": "1.0.2.4",
   "Description": "Tracks GCD, OGCDs and combo status. Instantly visualizing what is happening with queue, animation lock and helping you get familiar with the concepts.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/CaiClone/GCDTracker",
@@ -23,5 +23,5 @@
   "DownloadLinkTesting": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
   "DownloadLinkUpdate": "https://github.com/CaiClone/DalamudPlugins/raw/GCDTracker/GCDTracker/latest.zip",
   "DownloadCount": 0,
-  "LastUpdated": 1663093783
+  "LastUpdated": 1667647664
 }]
